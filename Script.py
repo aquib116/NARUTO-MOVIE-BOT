@@ -61,9 +61,9 @@ Nᴀᴍᴇ - {}"""
 
     TOP_ALRT_MSG = """🔆彡[ @theAvaflix ]彡🔆"""
 
-    MELCOW_ENG = """<b><i>🔆 "AVAFLiX • GROUP" 亗 🔆
+    MELCOW_ENG = """<b><i>🔆 "THE NARUTO MOVIE HUB • GROUP" 亗 🔆
 •───────────────────• 
-⚜Hey {}, Welcome To AVAFLIX • Group. You Can Request Any Movies, Web-Series, Anime, K-Dramas, Animation etc., here....</i></b>"""
+⚜Hey {}, Welcome To THE NARUTO MOVIE HUB • Group. You Can Request Any Movies, Web-Series, Anime, K-Dramas, Animation etc., here....</i></b>"""
 
     SHORTLINK_INFO = """🔆彡[ @theAvaflix ]彡🔆"""
 
