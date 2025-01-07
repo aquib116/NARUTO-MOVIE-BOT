@@ -50,7 +50,7 @@ async def pm_text(bot, message):
     if user_id in ADMINS: return # ignore admins
     await message.reply_text(
          text=f"<b>🌟 Click Here For Any Movie, Series, Anime & More!!!ↆ \n\n🌟 किसी भी मूवी, सीरीज, एनीमे और अधिक के लिए यहां क्लिक करें!!!ↆ</b>",   
-         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🎬 Click Here 🧤", url=f"https://telegram.me/AvaflixBackup")]])
+         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🎬 Click Here 🧤", url=f"https://telegram.me/Ongoingmoviehub")]])
     )
 
 @Client.on_callback_query(filters.regex(r"^next"))
