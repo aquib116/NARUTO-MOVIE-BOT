@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/ee88be6635e34cd82abb6.jpg" alt="PM-Shortner-Bot Logo">
+  <img src="https://envs.sh/9E0.jpg" alt="Ansu-Bot-Logo">
 </p>
 <h1 align="center">
   PM-Shortner-Bot
