@@ -42,22 +42,22 @@ Nᴀᴍᴇ - {}"""
 
     I_CUDNT = """<b><i>💢 Sorry – It’s Not Available❗️
 
-⚠️ The Reason❓[<a href="https://t.me/Avaflixx/8">Click Here</a>]
+⚠️ The Reason❓[<a href="https://t.me/howuseme">Click Here</a>]
 🗨 Please Follow Request Tips!
-🔆 Request Tips ➔ [<a href="https://t.me/Avaflixx/7">Click Here</a>]</i></b>"""
+🔆 Request Tips ➔ [<a href="https://t.me/reqmoviehere_hub">Click Here</a>]</i></b>"""
 
 
     I_CUD_NT = """<b><i>💢 Sorry – It’s Not Available❗️
 
-⚠️ The Reason❓[<a href="https://t.me/Avaflixx/8">Click Here</a>]
+⚠️ The Reason❓[<a href="https://t.me/howuseme">Click Here</a>]
 🗨 Please Follow Request Tips!
-🔆 Request Tips ➔ [<a href="https://t.me/Avaflixx/7">Click Here</a>]</i></b>"""
+🔆 Request Tips ➔ [<a href="https://t.me/reqmoviehere_hub">Click Here</a>]</i></b>"""
 
     MVE_NT_FND = """<b><i>💢 Sorry – It’s Not Available❗️
 
-⚠️ The Reason❓[<a href="https://t.me/Avaflixx/8">Click Here</a>]
+⚠️ The Reason❓[<a href="https://t.me/howuseme">Click Here</a>]
 🗨 Please Follow Request Tips!
-🔆 Request Tips ➔ [<a href="https://t.me/Avaflixx/7">Click Here</a>]</i></b>"""
+🔆 Request Tips ➔ [<a href="https://t.me/reqmoviehere_hub">Click Here</a>]</i></b>"""
 
     TOP_ALRT_MSG = """🔆彡[ @theAvaflix ]彡🔆"""
 
