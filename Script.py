@@ -65,7 +65,7 @@ Nᴀᴍᴇ - {}"""
 •───────────────────• 
 ⚜Hey {}, Welcome To THE NARUTO MOVIE HUB • Group. You Can Request Any Movies, Web-Series, Anime, K-Dramas, Animation etc., here....</i></b>"""
 
-    SHORTLINK_INFO = """🔆彡[ @theAvaflix ]彡🔆"""
+    SHORTLINK_INFO = """🔆彡[ @howuseme ]彡🔆"""
 
     REQINFO = """🔆彡[ @theAvaflix ]彡🔆"""
 
