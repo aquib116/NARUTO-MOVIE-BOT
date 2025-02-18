@@ -301,7 +301,7 @@ async def start(client, message):
                     InlineKeyboardButton("⁉️Hᴏᴡ Tᴏ Vᴇʀɪғʏ⁉️", url=f'https://telegram.me/{TUTORIAL}')
                   ]]
                 await message.reply_text(
-                    text="<b>You are not verified !\nKindly verify to continue !</b>",
+                    text="<b>You are not verified !\nKindly verify to continue !\nIf You Complete Verification You can \nUse Bot Freely For 12hours</b>",
                     protect_content=False,
                     reply_markup=InlineKeyboardMarkup(btn)
                 )
