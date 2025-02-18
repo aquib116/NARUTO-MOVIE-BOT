@@ -46,7 +46,7 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 
-VERIFY = bool(environ.get('VERIFY', False))
+VERIFY = bool(environ.get('VERIFY', True))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'primeurl.in')
 SHORTLINK_API = environ.get('SHORTLINK_API', '2d47486c5ffae58c883d5a72faec5f045da20d2f')
 SECOND_SHORTLINK_URL = environ.get('SECOND_SHORTLINK_URL', 'primeurl.in')
