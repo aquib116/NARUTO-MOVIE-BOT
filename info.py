@@ -24,7 +24,7 @@ DWLD = environ.get("DWLD", '')
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
 
-PICS = (environ.get('PICS', "https://envs.sh/9E0.jpg")).split()
+PICS = (environ.get('PICS', "https://i.ibb.co/9kJzsXsc/images-1.jpg")).split()
 NOR_IMG = environ.get("NOR_IMG", "https://envs.sh/9E0.jpg")
 MELCOW_PIC = environ.get("MELCOW_PIC", "https://envs.sh/9E0.jpg")
 SPELL_IMG = environ.get("SPELL_IMG", "https://envs.sh/9E0.jpg")
