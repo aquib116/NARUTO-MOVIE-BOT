@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<i><b>🎃 Helo {}, I'm <a href=https://telegram.me/{}>{}</a></i></b> \n\n<i><b>🔅 I Am @chrunchyrool Batch File Store Bot I Can Store Multiple File In One Link With Best UI </i></b>"""
+    START_TXT = """<i><b>🎃 Helo {}, I'm <a href=https://telegram.me/{}>{}</a></i></b> \n\n<i><b>🔅 I Am @chrunchyrool Batch File Store Bot I Can Store Multiple File In One Link With Best UI & Currently Public File Store Is Also Aviailable For Free </i></b>"""
     
     
     HELP_TXT = """🔆彡[ @theAvaflix ]彡🔆"""
