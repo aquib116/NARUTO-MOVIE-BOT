@@ -24,7 +24,7 @@ DWLD = environ.get("DWLD", '')
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
 
-PICS = (environ.get('PICS', "https://i.ibb.co/9kJzsXsc/images-1.jpg")).split()
+PICS = (environ.get('PICS', "https://i.ibb.co/9kJzsXsc/images-1.jpg https://i.ibb.co/zTX5jv3Y/al1.webp https://i.ibb.co/4n2sFQQD/aly1.webp https://i.ibb.co/DDkP91FF/aly2.webp https://i.ibb.co/1fGTGDBY/aly3.png https://i.ibb.co/zqYYF0b/aly4.jpg https://i.ibb.co/qLYhWScb/aly4k.jpg https://i.ibb.co/VYvLtD4g/aly5.webp https://i.ibb.co/Xf09Fg31/aly6.jpg https://i.ibb.co/MkDWCtML/aly7.jpg https://i.ibb.co/SDLgqW0J/aly8.jpg https://i.ibb.co/MFmQWy5/aly8.webp https://i.ibb.co/gZdfCXSZ/aly9.jpg https://i.ibb.co/Kp3z4R7G/aly10.jpg https://i.ibb.co/v4znXx63/aly11.jpg https://i.ibb.co/npVMhRL/aly12.jpg https://i.ibb.co/Cpjz0q6c/aly13.jpg https://i.ibb.co/kgSLyP5y/aly14.jpg https://i.ibb.co/kgfTLhHx/a1.jpg https://i.ibb.co/yc1mTN65/a2.png https://i.ibb.co/C5jVy2F7/a3.png https://i.ibb.co/1JbHWhp1/a5.jpg https://i.ibb.co/MxrhG3mk/a6.jpg https://i.ibb.co/QFDMzGpL/a7.jpg https://i.ibb.co/0yhYSJ1C/a8.jpg")).split()
 NOR_IMG = environ.get("NOR_IMG", "https://envs.sh/9E0.jpg")
 MELCOW_PIC = environ.get("MELCOW_PIC", "https://envs.sh/9E0.jpg")
 SPELL_IMG = environ.get("SPELL_IMG", "https://envs.sh/9E0.jpg")
