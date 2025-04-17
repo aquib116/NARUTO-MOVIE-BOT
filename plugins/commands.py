@@ -157,7 +157,7 @@ async def start(client, message):
             except Exception as e:
                 logger.warning(e, exc_info=True)
                 continue
-            await asyncio.sleep(0.2) 
+            await asyncio.sleep(0.1) 
         await sts.delete()
         return
     
